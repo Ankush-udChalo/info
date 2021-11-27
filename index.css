@@ -1,0 +1,1310 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.hero_img img {
+    width: 100%;
+}
+
+.order_heading {
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.heading_order_total_div {
+    text-align: center;
+    width: 50%;
+    padding-bottom: 20px;
+}
+
+.order_desc {
+    font-size: 18px;
+}
+
+.second_sec {
+    background-color: #F0F6F8;
+    padding: 50px 0px;
+}
+
+.sec_total_div {
+    width: 80%;
+}
+
+.table_heading {
+    background-color: rgba(0, 56, 140, 0.1);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.table_heading span {
+    color: #545454;
+    padding-right: 10px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.table_heading i {
+    color: #545454;
+}
+
+.content_color_flex {
+    display: flex;
+    align-items: center;
+}
+
+.content_color_flex span {
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.date_card {
+    display: flex;
+    align-items: center;
+    color: #858585;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.download_view_div {
+    display: flex;
+    align-items: center;
+    color: #32996A;
+    font-weight: 500;
+}
+
+.view_div {
+    margin-right: 30px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #32996A;
+}
+
+.view_div i {
+    margin-right: 10px;
+}
+
+.download_div i {
+    margin-right: 10px;
+}
+.download_div{    
+    display: flex;
+    align-items: center;    
+    text-decoration: none;
+    color: #32996A;
+}
+.view_div:hover{
+    text-decoration: none;
+    color: #32996A;
+}
+.download_div:hover{
+    text-decoration: none;
+    color: #32996A;
+}
+.card_row {
+    margin-top: 10px;
+
+}
+
+.single_card_top_margin {
+    padding: 25px 25px 25px 5px;
+    background-color: white;
+    border-left: 10px solid #78B6E3;    
+    border-radius: 10px;
+}
+.bottom_img img{
+    width: 100%;
+    background-color: #F0F6F8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.heading_enjoy {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 28px;
+    font-weight: bold;
+    color: black;
+}
+
+.card_three {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    margin: 0;
+    box-shadow: -1px 2px 19px -6px rgba(0, 0, 0, 0.81);
+    -webkit-box-shadow: -1px 2px 19px -6px rgba(0, 0, 0, 0.81);
+    -moz-box-shadow: -1px 2px 19px -6px rgba(0, 0, 0, 0.81);
+    height: 110px;
+    margin-bottom: 20px;
+}
+
+.img_cards {
+    margin-right: 20px;
+    width: 50px;
+}
+
+.card_total_box {
+    width: 85%;
+    margin: auto;
+}
+
+.card_total_box {
+    margin-top: 70px;
+}
+
+.document_required {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    padding-bottom: 10px;
+    color: black;
+
+}
+
+.whatsapp_button {
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.fa-whatsapp {
+    padding-right: 15px !important;
+}
+
+.slide {
+    background-color: #C4C4C4;
+}
+
+.header_take_next {
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 70px;
+    padding-top: 90px;
+    /* color: white; */
+}
+
+.prepare_heading {
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 50px;
+    /* color: white; */
+}
+
+.button_register {
+    width: 280px;
+    /* height: 75px;  */
+    border-radius: 2px;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    /* text-align: center; */
+    text-transform: uppercase;
+    margin-top: 90px;
+    background-color: #1E54B0;
+    color: white !important;
+    border: none;
+    cursor: pointer;
+    padding: 20px 30px;
+}
+
+.button_register a {
+    color: white;
+    text-decoration: none;
+}
+
+.button_register a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.live_online {
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    padding-top: 30px;
+    line-height: 50px;
+    padding-bottom: 30px;
+    color: black;
+    margin-bottom: 0 !important;
+}
+
+.carousel-item {
+    /* text-align: center; */
+    color: black;
+}
+
+.prev_button_top,
+.next_button_top {
+    background-color: #136937;
+    padding: 30px;
+    border-radius: 100%;
+}
+
+.registrations_open_div {
+    background-color: #DEF1E2;
+    width: 70%;
+    height: 78px;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    text-align: center;
+    margin: auto;
+    padding-top: 15px;
+}
+
+.prepare_div {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.prepare_for_p {
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    color: black;
+    font-weight: 600;
+}
+
+.get_ready_p {
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: gray;
+    width: 80%;
+}
+
+.let_your_p {
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: black;
+}
+
+.use_span {
+    padding: 10px;
+    background-color: #DEF1E2;
+    display: inline-block;
+}
+
+.button_share {
+    font-size: 20px !important;
+    margin-top: 10px;
+    background-color: #1E54B0;
+    color: white;
+}
+
+.button_share span {
+    margin-right: 10px;
+}
+
+.grey_box_second_sec {
+    width: 418px;
+    height: 322px;
+    background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/About-Scholarship\ 1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    margin: auto;
+}
+
+.how_it_p {
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+    text-transform: capitalize;
+    /* color: #136937; */
+}
+
+.along_with_p {
+    font-weight: normal;
+    font-size: 18px;
+    color: #545454;
+    text-align: center;
+}
+
+.second_sec {
+    background-color: #F4F5F7;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.small_div_how_it {
+    width: 130px;
+    height: 130px;
+    /* background: #C4C4C4; */
+    background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Vector.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+    background-color: #00388C1A;
+    border-radius: 8px;
+    border-radius: 100%;
+    margin: auto;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.small_div_how_it_two {
+    width: 130px;
+    height: 130px;
+    /* background: #C4C4C4; */
+    background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Dashboard.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position-y: 10px;
+    background-size: 100px;
+    background-color: #00388C1A;
+    /* border-radius: 8px; */
+    border-radius: 100%;
+    margin: auto;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.small_div_how_it_three {
+    width: 130px;
+    height: 130px;
+    /* background: #C4C4C4; */
+    background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Group\ 5260.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position-y: 20px;
+    background-size: 80px;
+    background-color: #00388C1A;
+    /* border-radius: 8px; */
+    border-radius: 100%;
+    margin: auto;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.personalised_p {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    /* color: #00699B; */
+}
+
+.how_it_div {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: black;
+}
+
+.third_sec {
+    background-color: #E5E5E5 !important;
+}
+
+.flex_how_it_div {
+    /* display: flex;
+justify-content: space-around; */
+    padding-top: 10px;
+    margin-bottom: 40px;
+}
+
+.button_second_sec_register {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.grey_background {
+    background-color: #E5E5E5;
+}
+
+.subject_heading {
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+}
+
+.subject_details {
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 25px;
+    color: #545454;
+}
+
+.small_div_course_details {
+    background-color: white;
+    border-radius: 8px;
+    width: 300px;
+    padding: 40px 10px;
+    margin: auto;
+    margin-top: 20px;
+    height: 320px;
+}
+
+.course_table {
+    margin-top: 30px;
+}
+
+.course_table tr td {
+    padding: 5px 8px 0px 30px;
+}
+
+.course_small_img {
+    width: 60px;
+    margin-bottom: 10px;
+}
+
+.check_bullets span {
+    margin-right: 10px;
+    color: #00B00C;
+}
+
+.check_bullets {
+    color: black;
+    margin-top: 60px;
+    background-color: #DEF1E2;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.course_div_grey_g {
+    background-color: white;
+    padding: 25px;
+    margin-top: 30px;
+}
+
+.course_div_grey_g p {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+
+.small_div_course_details_plans {
+    background-color: #F4F5F7;
+    height: 180px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.15);
+}
+
+.plan_photo_one {
+    height: 100px;
+    width: 100px;
+    /* background-color: #545454; */
+    background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Group.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 60px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 100%;
+    background-color: white;
+    border: 1px solid #F4F5F7;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.plan_photo_two {
+    height: 100px;
+    width: 100px;
+    /* background-color: #545454; */
+    background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Group\ \(1\).png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 60px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 100%;
+    background-color: white;
+    border: 1px solid #F4F5F7;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.plan_photo_three {
+    height: 100px;
+    width: 100px;
+    /* background-color: #545454; */
+    background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Group\ \(2\).png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 60px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 100%;
+    background-color: white;
+    border: 1px solid #F4F5F7;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.abs_for_img {
+    position: relative;
+}
+
+.subject_heading_plan {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.subject_details_plan {
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    color: #545454;
+    line-height: 1;
+}
+
+.course_div_plan {
+    margin-top: 80px;
+}
+
+.inner {
+    background-color: #E5E5E5 !important;
+}
+
+.plan_photo_faculty_one {
+    height: 150px;
+    width: 150px;
+    /* background-color: #545454; */
+    background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Intersect.png');
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+}
+
+.plan_photo_faculty_two {
+    height: 150px;
+    width: 150px;
+    /* background-color: #545454; */
+    background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Intersect\ \(1\).png');
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+}
+
+.plan_photo_faculty_three {
+    height: 150px;
+    width: 150px;
+    /* background-color: #545454; */
+    background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Intersect\ \(2\).png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+}
+
+.small_div_course_details_plans_fac {
+    background-color: white !important;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 8px;
+    /* position: relative; */
+}
+
+.subject_heading_plan_fac {
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.contact_us_div {
+    padding-top: 50px;
+}
+
+.contact_us_section {
+    background-color: #DFF2F8 !important;
+    padding-bottom: 30px;
+}
+
+.contact_us_heading {
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+}
+.contact_details_div{
+    padding:0px 30px
+}
+.contact_details_div h5 {
+    /* margin-top: 30px */
+}
+
+.contact_details_div p {
+    font-size: 20px;
+}
+
+.contact_details_div a {
+    color: #00699B;
+    margin-right: 10px;
+}
+
+.course_term {
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    color: #545454;
+    padding-top: 10px;
+}
+
+.b1 {
+    width: 100%;
+    /* box-sizing: border-box; */
+}
+
+.b2 {
+    display: none;
+}
+
+@media(max-width:415px) {
+    .contact_details_div h5 {
+        /* margin-top: 30px */
+        font-size: 13px !important;
+    }
+    .contact_us_div{
+        padding-left: 0px !important;
+    }
+    .contact_details_div a{
+        font-size: 12px !important;
+        margin-top: 0px;
+    }
+    .sec_total_div{
+        width:100%;
+    }
+    .small_screen_width:nth-child(odd) {
+        /* margin-top: 50px; */
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        top: 50px
+    }
+    .flex_contact {
+        display: flex;
+        margin-top: 20px !important;
+        padding-left: 0px;
+    }
+    .contact_us_heading {
+        font-weight: 500;
+        font-size: 18px !important;
+        text-align:left;
+        padding: 0px 30px;
+    }
+    .slick-arrow {
+        display: none !important;
+    }
+
+    .prev_button_top {
+        display: none;
+    }
+
+    .b1 {
+        display: none;
+    }
+
+    .b2 {
+        display: block;
+        width: 100%;
+    }
+
+    .next_button_top {
+        display: none;
+    }
+
+    .grey_box_second_sec {
+        display: none;
+    }
+
+    .prepare_div {
+        text-align: center;
+    }
+
+    .use_span {
+        width: 100%;
+    }
+
+    .button_share {
+        width: 100%;
+    }
+
+    .registrations_open_div {
+        width: 100%;
+        padding-top: 5px;
+        height: auto;
+    }
+
+    .carousal_hine_small_screen {
+        /* display: none; */
+    }
+
+
+}
+
+.grey_box_second_secsmall {
+    display: none;
+}
+
+.subject_details_plana {
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    color: #545454;
+    line-height: 1;
+}
+
+.facilty_edu {
+    font-weight: 500;
+}
+
+@media(max-width:766px) {
+    * {
+        font-size: 14px !important;
+    }
+
+    .button_register {
+        width: 280px;
+        /* height: 75px;  */
+        border-radius: 2px;
+        font-family: IBM Plex Sans;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        /* text-align: center; */
+        text-transform: uppercase;
+        margin-top: 90px;
+        background-color: #1E54B0;
+        color: white !important;
+        border: none;
+        cursor: pointer;
+        padding: 10px 30px;
+    }
+
+    .prepare_for_p {
+        text-align: center;
+    }
+
+    .let_your_p {
+        text-align: center;
+    }
+
+    .course_div_plan {
+        padding-top: 20px;
+        margin-bottom: -80px;
+    }
+
+    .get_ready_p {
+        margin: auto;
+        margin-bottom: 10px;
+    }
+
+    .subject_details_plan {
+        margin: auto;
+    }
+
+    .along_with_p {
+        font-weight: 400;
+    }
+
+    .plan_photo_one {
+        height: 100px;
+        width: 100px;
+        /* background-color: #545454; */
+        background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Group.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 60px;
+        position: relative;
+        left: 0;
+        transform: translate(0%, 0%);
+        border-radius: 100%;
+        background-color: white;
+        border: 1px solid #F4F5F7;
+        box-sizing: border-box;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .plan_photo_two {
+        height: 100px;
+        width: 100px;
+        /* background-color: #545454; */
+        background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Group\ \(1\).png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 60px;
+        position: relative;
+        left: 0;
+        transform: translate(0%, 0%);
+        border-radius: 100%;
+        background-color: white;
+        border: 1px solid #F4F5F7;
+        box-sizing: border-box;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .plan_photo_three {
+        height: 100px;
+        width: 100px;
+        /* background-color: #545454; */
+        background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Group\ \(2\).png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 60px;
+        position: relative;
+        left: 0;
+        transform: translate(0%, 0%);
+        border-radius: 100%;
+        background-color: white;
+        border: 1px solid #F4F5F7;
+        box-sizing: border-box;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .small_div_course_details_plans {
+        display: flex;
+        align-items: center;
+        padding-left: 30px;
+        padding-top: 0px;
+        margin-top: -70px;
+    }
+
+    .subject_heading_plan {
+        text-align: left;
+        padding-top: 20px;
+    }
+
+    .margin_lest_sS_plan {
+        padding-left: 20px;
+    }
+
+    .subject_details_plana {
+        /* text-align: left;
+padding-left: 0;
+margin-left: 0; */
+    }
+
+    .subject_details_plan {
+        text-align: left;
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .check_bullets {
+        padding: 20px;
+    }
+
+    .small_div_course_details {
+        padding-top: 10px;
+        width: 100%;
+        height: 225px;
+    }
+
+    .subject_details {
+        font-size: 18px;
+        padding: 0;
+        margin-top: 0;
+    }
+
+    .course_table tr td {
+        font-size: 18px;
+    }
+
+    .course_table {
+        margin: auto;
+        margin-top: -10px;
+    }
+
+    .course_small_img {
+        margin-right: 20px;
+        margin-top: 40px;
+        width: 40px;
+    }
+
+    .subject_heading {
+        font-size: 20px;
+        margin-left: 25px;
+        margin-bottom: 0;
+    }
+
+    .subject_heading {
+        display: flex;
+        align-items: center;
+    }
+
+    .small_div_how_it {
+        margin: 0px;
+        width: 56px;
+        background-size: 35px;
+        height: 56px;
+    }
+
+    .small_div_how_it_two {
+        margin: 0px;
+        width: 56px;
+        background-size: 35px;
+        height: 56px;
+    }
+
+    .small_div_how_it_three {
+        margin: 0px;
+        width: 56px;
+        background-size: 35px;
+        height: 56px;
+        background-position-y: 8px;
+    }
+
+    .personalised_p {
+        margin-left: 30px;
+    }
+
+    .flex_how_it_div {
+        padding-left: 20px;
+    }
+
+    .how_it_div {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        color: black;
+    }
+
+    .flex_small_screen_dashboard {
+        display: flex;
+        align-items: center;
+        margin-top: 20px;
+
+    }
+
+    .along_with_p {
+        width: 100%;
+        margin: auto;
+    }
+
+    .use_span {
+        width: 100%;
+        text-align: center;
+        height: 40px;
+        font-weight: bold;
+        font-size: 12px !important;
+    }
+
+    .button_share {
+        width: 100%;
+        height: 40px;
+        font-size: 12px !important;
+    }
+
+    .abs_for_img {
+        position: relative;
+        margin-bottom: 80px;
+    }
+
+    .ss_button {
+        width: 100% !important;
+    }
+
+    .button_second_sec_register {
+        height: 40px;
+        margin: auto;
+        display: block;
+        margin-top: 0;
+    }
+
+    .button_second_sec_register {
+        width: 114px;
+    }
+
+    .grey_box_second_sec {
+        display: none;
+    }
+
+    .registrations_open_div {
+        width: 100%;
+        font-size: 14px;
+        padding: 10px;
+        padding-top: 20px;
+        border-radius: 5px;
+    }
+
+    .grey_box_second_secsmall {
+        display: block;
+        height: 182px;
+        background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/About-Scholarship_mobile\ 2.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 8px;
+        margin: auto;
+        margin-top: 20px;
+    }
+
+    .live_online {
+        font-size: 14px !important;
+    }
+
+    .button_second_sec_register {
+        width: 150px;
+    }
+}
+
+@media(max-width:999px) and (min-width:764px) {
+    .small_screen_width:nth-child() {
+        /* margin-top: 50px; */
+        /* width: 50%; */
+        margin-left: auto;
+        margin-right: auto;
+        top: 50px
+    }
+
+    .banner {
+        /* background-image: url('https://static-preprod.udchalo.com/promotions/speedLabs/newAcademy/Banners-12\ 2.png') !important;
+background-repeat: no-repeat;
+background-size: contain; */
+    }
+
+    .grey_box_second_sec {
+        width: 350px;
+        height: 250px;
+    }
+}
+
+.faculty_sec {
+    background-color: #E5E5E5;
+}
+
+.facilty_edu {
+    width: 219px;
+    height: 46px;
+    background: linear-gradient(180deg, rgba(232, 239, 250, 0.99) 0%, #F7F7F9 100%);
+    text-align: center;
+    border-radius: 5px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.green_course_subject {
+    position: absolute;
+    background: #348D59;
+    border-radius: 3px;
+    transform: translate(0, -110%);
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.contact_image {
+    margin-right: 20px;
+}
+
+.flex_contact {
+    display: flex;
+    margin-top: 40px;
+}
+
+.b1 {
+    min-width: 100%;
+    /* height: 385px; */
+}
+
+.strke {
+    text-decoration: line-through;
+    margin-right: 10px;
+}
+
+.slick-next:before,
+.slick-prev:before {
+    font-size: 50px !important;
+    color: white !important;
+    z-index: 10000;
+    border-radius: 100%;
+    box-shadow: -5px 2px 10px grey;
+    position: relative !important;
+}
+
+.slick-next:before {
+    margin-left: -20px !important;
+}
+
+.slick-prev:before {
+    margin-left: -10px;
+}
+
+.slick-next:focus:before,
+.slick-next:hover:before,
+.slick-prev:focus:before,
+.slick-prev:hover:before {
+    opacity: 1 !important;
+    color: white;
+}
+
+.contImg img {
+    border-radius: 100% !important;
+    padding: 3px;
+    height: 150px;
+    width: 150px;
+}
+.iframe_emi{
+    width: 100%;
+    margin-bottom: 50px;
+    height: 420px;
+}
+@media(max-width:990px){
+    .heading_order_total_div{
+        width: 100% !important;
+        padding: 0px 0px 20px 0px;
+    }
+    .table_heading{
+        display: none;
+    }
+    .download_view_div{
+        border-top: 1px solid lightgray;
+    }
+    .content_color_flex{
+        padding: 0px 0px 20px 0px;
+        display: block;
+    }
+    .content_color_flex span {
+        color: black;
+        font-weight: 500;
+        font-size: 14px !important;
+    }
+    .single_card_top_margin{
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+    .date_card {
+        color: #858585;
+        font-size: 12px !important;
+        font-weight: 500;
+        padding-bottom: 20px;
+    }
+    
+    .download_view_div {
+        display: flex;
+        align-items: center;
+        color: #32996A;
+        font-weight: 500;
+        padding: 10px;
+    }
+    .download_view_div span{
+        font-size: 14px !important;
+        
+    }
+    .small_screen_hide{
+        display: block !important;
+    }
+}
+#allcards{
+    height: 600px;
+    overflow-y: scroll;
+}
+::-webkit-scrollbar {
+    width:3px;
+    height: 0px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #32996A; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #32996A; 
+  }
+  .row{
+      margin-left: 0px;
+      margin-right: 0px;
+  }
+  .dropdown-toggle{
+      width: 100%;
+      text-align: left;
+      background-color: white;
+        color: black;
+        text-decoration: none;
+    }
+    .dropdown-toggle:hover{
+        color: black;
+        text-decoration: none;
+    }
+    .dropdown-toggle::after{
+        float: right;
+        margin-top: 10px;
+    }
+    .sortby{
+        color: #545454;
+        font-weight: 500;
+        font-size: 12px;
+        padding-bottom: 5px;
+    }
+    .small_screen_hide{
+        display: none;
+    }
+    .dropdown-item{
+        font-weight: bold;
+        color: #545454;
+    }
+    .item_one_dropdown{
+        border-bottom: 0.5px solid #545454;
+    }
+    .dropdown-menu{
+        width: 100%;
+    }
