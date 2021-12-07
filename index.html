@@ -25,13 +25,19 @@
                 <p class="order_desc">Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Sed faucibus ac porta in id quis ac</p>
             </div>
+            <div class="select_div">
+                <select onchange="say()" name="cars" id="cars">
+                   
+                  </select>
+            </div>
             <div class="const_height">
                 <div class="row table_heading">
                     <div class="col-lg-6 col-md-6" onclick="toggleTitle()"><span>Title</span><i class="fas fa-chevron-down"></i></div>
-                    <div class="col-lg-3 col-md-3" onclick="toggleDate()"><span>Date</span><i class="fas fa-chevron-down"></i></div>
+                    <div class="col-lg-3 col-md-3" onclick="toggleDate()"><span>Subject</span><i class="fas fa-chevron-down"></i>
+                    </div>
                     <div class="col-lg-3 col-md-3"><span>Action</span></div>
                 </div>
-                <div class="small_screen_hide">
+                <!-- <div class="small_screen_hide">
                     <div class="sortby">Sort by</div>
                 <div class="dropdown show">
                     <a class="btn  dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -40,12 +46,13 @@
                   
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                       <a class="dropdown-item item_one_dropdown" href="#" onclick="toggleTitle()">Title</a>
-                      <a class="dropdown-item" href="#" onclick="toggleDate()">Date</a>
-                      <!-- <a class="dropdown-item" href="#">Something else here</a> -->
+                      <a class="dropdown-item" href="#" onclick="toggleDate()" data-toggle="modal" data-target="#exampleModalLong">Subject</a>
+                       <a class="dropdown-item" href="#">Something else here</a> 
                     </div>
                   </div>
-                </div>
-                
+                </div> -->
+
+            
 
 
 
@@ -125,5 +132,6 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 <script src="index.js"></script>
 <script src="./data.json"></script>
+<script src="./category.json"></script>
 </body>
 </html>

@@ -1,5 +1,95 @@
 var countTitle=0;
 var countDate=0;
+
+
+
+
+fetch("./category.json")
+.then(response => {
+    datas='g';
+   return response.json();
+})
+.then(
+    data => {        
+        // console.log("initial",data[1]);
+        html=``;
+        for (let index = 0; index < data.length; index++) {
+            html+=`<option value="${data[index].category}">${data[index].category}</option>`    
+        }
+        document.getElementById("cars").innerHTML=html;
+    }
+);
+
+
+function say(){
+    fetch("./data.json")
+.then(response => {
+    datas='g';
+   return response.json();
+})
+.then(
+    data => {        
+        //  console.log("initial");
+         html=``;
+        var found=document.getElementById("cars").value;
+        
+        // console.log("initial", found);
+        for (let index = 0; index < data.length; index++) {
+            if(found==="Category"){
+                html+=`<div class="card_row">
+            <div class="row single_card_top_margin">
+                    <div class="col-lg-6">                            
+                        <div class="content_color_flex">
+                            <span>${data[index].title}</span></div>
+                    </div>
+                    <div class="col-lg-3 date_card">${data[index].category}</div>
+                    <div class="col-lg-3 download_view_div">
+                                <a href="./files/${data[index].file_name}" target="_blank" class="view_div"><i class="far fa-eye"></i><span>View</span></a>
+                                <a href="./files/${data[index].file_name}" download class="download_div"><i class="far fa-arrow-alt-circle-down"></i><span>Download</span></a>
+                            </div>
+                </div>                        
+            </div>`
+            }
+            else if(data[index].category===found){                
+             console.log(data[index].category,"initial", found);
+            html+=`<div class="card_row">
+            <div class="row single_card_top_margin">
+                    <div class="col-lg-6">                            
+                        <div class="content_color_flex">
+                            <span>${data[index].title}</span></div>
+                    </div>
+                    <div class="col-lg-3 date_card">${data[index].category}</div>
+                    <div class="col-lg-3 download_view_div">
+                                <a href="./files/${data[index].file_name}" target="_blank" class="view_div"><i class="far fa-eye"></i><span>View</span></a>
+                                <a href="./files/${data[index].file_name}" download class="download_div"><i class="far fa-arrow-alt-circle-down"></i><span>Download</span></a>
+                            </div>
+                </div>                        
+            </div>`    
+        }
+    }
+
+        document.getElementById("allcards").innerHTML=html;
+    }
+);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 sortByTitleodd();
 function toggleTitle(){
     countTitle++;
@@ -28,7 +118,7 @@ fetch("./data.json")
                         <div class="content_color_flex">
                             <span>${data[index].title}</span></div>
                     </div>
-                    <div class="col-lg-3 date_card">${data[index].date}</div>
+                    <div class="col-lg-3 date_card">${data[index].category}</div>
                     <div class="col-lg-3 download_view_div">
                                 <a href="./files/${data[index].file_name}" target="_blank" class="view_div"><i class="far fa-eye"></i><span>View</span></a>
                                 <a href="./files/${data[index].file_name}" download class="download_div"><i class="far fa-arrow-alt-circle-down"></i><span>Download</span></a>
@@ -70,7 +160,7 @@ function sortByTitleeven(){
                         <div class="content_color_flex">
                             <span>${data[index].title}</span></div>
                     </div>
-                    <div class="col-lg-3 date_card">${data[index].date}</div>
+                    <div class="col-lg-3 date_card">${data[index].category}</div>
                     <div class="col-lg-3 download_view_div">
                                 <a href="./files/${data[index].file_name}" target="_blank" class="view_div"><i class="far fa-eye"></i><span>View</span></a>
                                 <a href="./files/${data[index].file_name}" download class="download_div"><i class="far fa-arrow-alt-circle-down"></i><span>Download</span></a>
@@ -83,42 +173,42 @@ function sortByTitleeven(){
 );
 }
 
-function toggleDate(){
-    countDate++;
-    if(countDate%2==0){
-        sortByTitleodd();
-    }
-    else{
-        sortByDateeven();
-    }
-}
+// function toggleDate(){
+//     countDate++;
+//     if(countDate%2==0){
+//         sortByTitleodd();
+//     }
+//     else{
+//         sortByDateeven();
+//     }
+// }
 
-function sortByDateeven(){
-    fetch("./data.json")
-.then(response => {
-    datas='g';
-   return response.json();
-})
-.then(
-    data => {        
-        // console.log("initial",data);
-        html=``;
-        for (let index = data.length-1; index >= 0; index--) {
-            html+=`<div class="card_row">
-            <div class="row single_card_top_margin">
-                    <div class="col-lg-6">                            
-                        <div class="content_color_flex">
-                            <span>${data[index].title}</span></div>
-                    </div>
-                    <div class="col-lg-3 date_card">${data[index].date}</div>
-                    <div class="col-lg-3 download_view_div">
-                                <a href="./files/${data[index].file_name}" target="_blank" class="view_div"><i class="far fa-eye"></i><span>View</span></a>
-                                <a href="./files/${data[index].file_name}" download class="download_div"><i class="far fa-arrow-alt-circle-down"></i><span>Download</span></a>
-                            </div>
-                </div>                        
-            </div>`    
-        }
-        document.getElementById("allcards").innerHTML=html;
-    }
-);
-}
+// function sortByDateeven(){
+//     fetch("./data.json")
+// .then(response => {
+//     datas='g';
+//    return response.json();
+// })
+// .then(
+//     data => {        
+//         // console.log("initial",data);
+//         html=``;
+//         for (let index = data.length-1; index >= 0; index--) {
+//             html+=`<div class="card_row">
+//             <div class="row single_card_top_margin">
+//                     <div class="col-lg-6">                            
+//                         <div class="content_color_flex">
+//                             <span>${data[index].title}</span></div>
+//                     </div>
+//                     <div class="col-lg-3 date_card">${data[index].date}</div>
+//                     <div class="col-lg-3 download_view_div">
+//                                 <a href="./files/${data[index].file_name}" target="_blank" class="view_div"><i class="far fa-eye"></i><span>View</span></a>
+//                                 <a href="./files/${data[index].file_name}" download class="download_div"><i class="far fa-arrow-alt-circle-down"></i><span>Download</span></a>
+//                             </div>
+//                 </div>                        
+//             </div>`    
+//         }
+//         document.getElementById("allcards").innerHTML=html;
+//     }
+// );
+// }

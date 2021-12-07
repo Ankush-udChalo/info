@@ -1,67 +1,27 @@
 [
     {
         "title": "Booking of air ticket through udchalo.com",
-        "date": "11 Nov, 2019",
+        "category": "Education",
         "file_name":"20359516.pdf"
     },
     {
         "title": "Clarification regarding grant of dual family pension",
-        "date": "24 Jul, 2019",
+        "category": "Pension",
         "file_name":"22245876.pdf"
     },
     {
         "title": "alarification regarding grant of dual family pension",
-        "date": "24 Jul, 2019",
+        "category": "Medical",
         "file_name":"22245876.pdf"
     },
     {
         "title": "blarification regarding grant of dual family pension",
-        "date": "24 Jul, 2019",
+        "category": "Scholarship",
         "file_name":"22245876.pdf"
     },
     {
         "title": "dlarification regarding grant of dual family pension",
-        "date": "24 Jul, 2019",
-        "file_name":"22245876.pdf"
-    },
-    {
-        "title": "elarification regarding grant of dual family pension",
-        "date": "24 Jul, 2019",
-        "file_name":"22245876.pdf"
-    },
-    {
-        "title": "flarification regarding grant of dual family pension",
-        "date": "24 Jul, 2019",
-        "file_name":"22245876.pdf"
-    },
-    {
-        "title": "glarification regarding grant of dual family pension",
-        "date": "24 Jul, 2019",
-        "file_name":"22245876.pdf"
-    },
-    {
-        "title": "Clarification regarding grant of dual family pension",
-        "date": "24 Jul, 2019",
-        "file_name":"22245876.pdf"
-    },
-    {
-        "title": "hlarification regarding grant of dual family pension",
-        "date": "24 Jul, 2019",
-        "file_name":"22245876.pdf"
-    },
-    {
-        "title": "Clarification regarding grant of dual family pension",
-        "date": "24 Jul, 2019",
-        "file_name":"22245876.pdf"
-    },
-    {
-        "title": "Clarification regarding grant of dual family pension",
-        "date": "30 Jul, 2019",
-        "file_name":"22245876.pdf"
-    },
-    {
-        "title": "Clarification regarding grant of dual family pension",
-        "date": "29 Jul, 2019",
+        "category": "Medical",
         "file_name":"22245876.pdf"
     }
 ]
