@@ -1281,8 +1281,6 @@ background-size: contain; */
     }
 }
 #allcards{
-    height: 600px;
-    overflow-y: scroll;
 }
 ::-webkit-scrollbar {
     width:3px;
@@ -1343,3 +1341,83 @@ background-size: contain; */
     .dropdown-menu{
         width: 100%;
     }
+    .filter_by{
+        font-weight: 500;
+        color: #545454;
+        padding: 0px 0px 10px 10px;
+    }
+    .select_div{
+        display: flex;
+        justify-content: end;
+    }
+    .select_div select{
+        margin-bottom: 20px;
+    }
+    #cars{
+        background-color: white;
+        border: none;
+    }
+    #cars:valid{
+        -webkit-appearance: menulist-button;
+        color: #858585;
+      }
+       .pagination{
+          display: flex;
+          justify-content:center;
+          align-items: center;
+        margin-top: 20px;
+      }
+     .pagination button{
+          width: 40px;
+          height: 40px;
+          appearance: none;
+          border: none;
+          cursor: pointer;
+          outline: none;
+          background-color: #F4F5F7;
+          color: #544545;
+          margin: 0 10px;
+          font-weight: 500;
+      }
+      .pagination button:hover{
+          background-color: #32996A;
+          border-radius: 100%;
+          color: white;
+      }
+      .pagination button.active{
+        background-color: #32996A !important;
+        color: white;
+        font-weight: 500;
+        border-radius: 100%;
+      } 
+   /* .page{
+       width: 30px;
+       height: 30px;
+       padding: 2px 0px 0px 0px;
+    text-decoration: none;
+    color: white;
+    background-color: #32996A;
+    margin: 0px 4px;
+    border-radius: 100%;
+    text-align: center;
+   font-weight: 400;
+   border: none;
+   cursor: pointer;
+   }
+   .class_checking{
+       background-color: red !important;
+   }
+   .pagination span{
+       margin: 0px 5px;
+       font-weight: bold;
+   }
+   .arrow_button{
+       border: none ;
+       color: grey;
+       background-color:#F4F5F7 ;
+       margin: 0px 10px;
+   }
+   .pagenumber button.active, .page:hover {
+    background-color:#32996A;
+    color: white;
+  } */

@@ -1,17 +1,35 @@
 [
     {
-        "category":"Category"
+        "category": "Category"
     },
     {
-        "category":"Education"
+        "category": "7 CPC"
     },
     {
-        "category":"Medical"
+        "category": "Disability"
     },
     {
-        "category":"Pension"
+        "category": "Pension"
     },
     {
-        "category":"Scholarship"
+        "category": "War Injury"
+    },
+    {
+        "category": "Pension"
+    },
+    {
+        "category": "War Injury"
+    },
+    {
+        "category": "Benefits from states"
+    },
+    {
+        "category": "DSOP-AFPF"
+    },
+    {
+        "category": "Pay and allowances"
+    },
+    {
+        "category": "Travel"
     }
 ]

@@ -1,27 +1,307 @@
 [
     {
-        "title": "Booking of air ticket through udchalo.com",
-        "category": "Education",
-        "file_name":"20359516.pdf"
-    },
-    {
-        "title": "Clarification regarding grant of dual family pension",
+        "title": "Circulation of OMs issued by Ministry of Personnel, Public Grievances & Pensions, (Department of Pension & Pensioners' Welfare).",
         "category": "Pension",
-        "file_name":"22245876.pdf"
+        "file_name": "7CPC-Revision of provisions for Gratuity, Pension, Commutation.pdf"
     },
     {
-        "title": "alarification regarding grant of dual family pension",
-        "category": "Medical",
-        "file_name":"22245876.pdf"
+        "title": "Commutation",
+        "category": "Pension",
+        "file_name": "Commutation.pdf"
     },
     {
-        "title": "blarification regarding grant of dual family pension",
-        "category": "Scholarship",
-        "file_name":"22245876.pdf"
+        "title": "Grant of dual (Two) family pension from Military as well as Civil employment.",
+        "category": "Pension",
+        "file_name": "Dual Family Pension.pdf"
     },
     {
-        "title": "dlarification regarding grant of dual family pension",
-        "category": "Medical",
-        "file_name":"22245876.pdf"
+        "title": "Reimbursement of cost of Medicine : Special Santion in view of the Covid-19 till 31st October, 2021 - regarding.",
+        "category": "Pension",
+        "file_name": "ECHS reimursement in view of Covid.pdf"
+    },
+    {
+        "title": "Ex-gratia lump sum compensation - Recommendations of the Seventh Central Pay Commission.",
+        "category": "Pension",
+        "file_name": "Ex gratia lump sum compensation.pdf"
+    },
+    {
+        "title": "Liberalised Family Pension : Conditions",
+        "category": "Pension",
+        "file_name": "Liberaised family pension.pdf"
+    },
+    {
+        "title": "Submission of Annual Life Certificate for pensioners/family pensioners living abroad.",
+        "category": "Pension",
+        "file_name": "Life Certificate for person abroad.pdf"
+    },
+    {
+        "title": "Family pension to the widows of State Force Pensioners",
+        "category": "Pension",
+        "file_name": "Other Family pension.pdf"
+    },
+    {
+        "title": "Revision of Pension of Pre-2016 Pensioners/Family Pensioners on the basis of Pay Matrix prescribed by 7th CPC Checklist/Report for Monitoring the Progress of Revision of PPOs",
+        "category": "Pension",
+        "file_name": "Revision of Pension of Pre-2016 Pensioners.pdf"
+    },
+    {
+        "title": "Service Family Pension",
+        "category": "Pension",
+        "file_name": "Service family pension.pdf"
+    },
+    {
+        "title": "Service Gratuity",
+        "category": "Pension",
+        "file_name": "Service Gratuity.pdf"
+    },
+    {
+        "title": "Service Pension : Regular Army/Air Force/Navy/DSC",
+        "category": "Pension",
+        "file_name": "Service Pension.pdf"
+    },
+    {
+        "title": "Special Pension/ Gratuity",
+        "category": "Pension",
+        "file_name": "Special pension.pdf"
+    },
+    {
+        "title": "War Injury Pension",
+        "category": "War Injury",
+        "file_name": "War injury.pdf"
+    },
+    {
+        "title": "Amendment to the provisions of general Provident Fund (Central Service) Rules, 1960- liberaliztion of provisions for drawal of advance from the Fund by the subscribers-regarding.",
+        "category": "DSOP-AFPF",
+        "file_name": "AFPF DSOP- Liberalisation of drawl of advance from PF.pdf"
+    },
+    {
+        "title": "RECOMMENDATIONS OF THE SEVENTH CENTRAL PAY COMMISSION ON ALLOWANCES/CONCESSIONS IN RESPECT OF OFFICERS /JCOs AND ORs OF THE ARMY AND EQUIVALENT RANKS OF NAVY AND AIR FORCE- IMPLEMENTATION OF.",
+        "category": "Pay and allowances",
+        "file_name": "7CPC various allowances.pdf"
+    },
+    {
+        "title": "Availability of option for fixation of pay on Modified Assured Career Progression Scheme (MACPS) from the date of next increment (DNI) in the lower post and method of pay fixation from DNI, if opted for, in context of Army Pay Rules 2017, Air Force Pay Rules 2017 and Navy Pay Regulations 2017 in respect of JCO/ORs and equivalent.",
+        "category": "Pay and allowances",
+        "file_name": "Avlb option on fixation of MACP.pdf"
+    },
+    {
+        "title": "Benchmark for financial upgradation under MACP - clarification regarding",
+        "category": "Pay and allowances",
+        "file_name": "Benchmark for upgradation of MACP.pdf"
+    },
+    {
+        "title": "Circulation of OM issued by DoP&T regarding 7th CPC Allowances.",
+        "category": "Pay and allowances",
+        "file_name": "CEA and hostel subsidy.pdf"
+    },
+    {
+        "title": "Clarification on Children Education Allowance (CEA) during COVID-19 epidemic Lockdown period.",
+        "category": "Pay and allowances",
+        "file_name": "CEA during Covid.pdf"
+    },
+    {
+        "title": "Date of next increment- Rule 10 of Army Officers and Air Force Officers Pay Rules, 2017;Regulation 10 of Navy Officers Pay Regulations,2017;Rule 10 of Army,Air Force and Military Nursing Service Pay Rules, 2017; Regulation 10 of Navy Pay Regulations, 2017 and Rule 9 of the Non-Combatants (Enrolled) of Air Force Rules, 2017 - regarding.",
+        "category": "Pay and allowances",
+        "file_name": "Date_of_next_increment_Rules23921.pdf"
+    },
+    {
+        "title": "Ex-gratia lump sump compensation - Clarification.",
+        "category": "Pay and allowances",
+        "file_name": "Ex-gratia_lumpsum amplification2.pdf"
+    },
+    {
+        "title": "Ex-gratia lump sump compensation - clarification.",
+        "category": "Pay and allowances",
+        "file_name": "Ex-gratia_lumpsum aplification.pdf"
+    },
+    {
+        "title": "Ceiling in respect of Office Expenditure on Hospitality - Reg.",
+        "category": "Pay and allowances",
+        "file_name": "Expenditure-office expenditure on hospitality.pdf"
+    },
+    {
+        "title": "Field Service Concessions to Army personnel- Implementation of the recommendation of 7th Central Pay Commission.",
+        "category": "Pay and allowances",
+        "file_name": "Fd service concession to Army pers connrigendum.pdf"
+    },
+    {
+        "title": "Field Service Concessions to Air Force personnel- Implementation of the recommendation of 7th Central Pay Commission.",
+        "category": "Pay and allowances",
+        "file_name": "Fd service concessionto Air Force pers corigendum.pdf"
+    },
+    {
+        "title": "Recommendations of the Seventh Central Pay Commission- Implementation of decision relating to the grant of Children Education Allowance.",
+        "category": "Pay and allowances",
+        "file_name": "Grant of CEA allces to three services.pdf"
+    },
+    {
+        "title": "Recommendations of the Seventh Central Pay Commission- Implementation of decision relating to the grant of Children Education Allowance -",
+        "category": "Pay and allowances",
+        "file_name": "Grant of CEA to disabled children.pdf"
+    },
+    {
+        "title": "Implementation of recommendations of the Seventh Central Pay Commission on Dress Allowance -regarding.",
+        "category": "Pay and allowances",
+        "file_name": "Grant of dress allces.pdf"
+    },
+    {
+        "title": "Implementation of 7th CPC Recommendations for grant of House Rent Allowance (HRA) to Armed Forces Personnel.",
+        "category": "Pay and allowances",
+        "file_name": "Grant of HRA to Armd Forces pers.pdf"
+    },
+    {
+        "title": "Recommendations of the Seventh Central Pay Commission- Implementation of decision relating to the grant of Training Allowance.",
+        "category": "Pay and allowances",
+        "file_name": "Grant of Trg allce.pdf"
+    },
+    {
+        "title": "Review of courses for grant of Technical Allowance (Tier I & II) to the three services pursuant to acceptance of recommendations of 7th Central Pay Commission - regarding.",
+        "category": "Pay and allowances",
+        "file_name": "Gtd of tech allce to three services.pdf"
+    },
+    {
+        "title": "Grant of special increment in the form of personal pay to Central Government Servants for participation in sporting events and tournaments of National or International importance, in the 7th CPC Scenario-reg.",
+        "category": "Pay and allowances",
+        "file_name": "incement for national and internation sports.pdf"
+    },
+    {
+        "title": "Revision of rates of Non Practicing Allowance (NPA) to the officers of Armed Forces Medical Services consequent of recommendations of 7th Central Pay Commission.",
+        "category": "Pay and allowances",
+        "file_name": "NPA to offr of Med forces.pdf"
+    },
+    {
+        "title": "REVISED RATES OF RISK AND HARDSHIP ALLOWANCES/CONCESSIONS",
+        "category": "Pay and allowances",
+        "file_name": "Revised chart of risk and hardship allce.pdf"
+    },
+    {
+        "title": "Circulation of OM issued by MoF/DoE regarding 7th CPC Allowances",
+        "category": "7 CPC",
+        "file_name": "7CPC Gazzette 6 July 2017.pdf"
+    },
+    {
+        "title": "Pay Scale after 7th CPC Allowances",
+        "category": "7 CPC",
+        "file_name": "7CPC Gazzette 25 July 2016.pdf"
+    },
+    {
+        "title": "7th CPC PBOR",
+        "category": "7 CPC",
+        "file_name": "7th CPC PBOR.pdf"
+    },
+    {
+        "title": "Abolition of Special Compensatory (hill Area) Allowance Recommendations of the Seventh Central Pay Commission",
+        "category": "7 CPC",
+        "file_name": "Abolition of special compensatory allces.pdf"
+    },
+    {
+        "title": "Revised payrules Gazzette notn 25072016",
+        "category": "7 CPC",
+        "file_name": "Revised payrules Gazzette notn 25072016.pdf"
+    },
+    {
+        "title": "Implementation of the recommendations of the 7th CPC Amendment",
+        "category": "7 CPC",
+        "file_name": "IOR Civil pay matrix 2.57 to 2.67.pdf"
+    },
+    {
+        "title": "Special benefits in cases of death and disability in service",
+        "category": "Disability",
+        "file_name": "Spl benifits on death of disabile pers.pdf"
+    },
+    {
+        "title": "Implementation of decision relating to Special Allowance for child care for women with disabilities. ",
+        "category": "Disability",
+        "file_name": "Spl child care allce to women with diability  of Armf forces pers.pdf"
+    },
+    {
+        "title": "Transport allowance to persons with disability in Central Government ",
+        "category": "Disability",
+        "file_name": "Tpt allce to pers with disability pers 27718.pdf"
+    },
+    {
+        "title": "Disability Pension",
+        "category": "Disability",
+        "file_name": "Disability pension.pdf"
+    },
+    {
+        "title": "Invalid Pension ",
+        "category": "Disability",
+        "file_name": "Invalid pension.pdf"
+    },
+    {
+        "title": "Disability pension - Policy",
+        "category": "Disability",
+        "file_name": "Disability pension- Policy.pdf"
+    },
+    {
+        "title": "7CPC-Revision of provisions for Gratuity, Pension, Commutation",
+        "category": "Pension",
+        "file_name": "7CPC-Revision of provisions for Gratuity, Pension, Commutation.pdf"
+    },
+    {
+        "title": "Commutation",
+        "category": "Pension",
+        "file_name": "Commutation.pdf"
+    },
+    {
+        "title": "Grant of dual family pension from military as well as Civil employment",
+        "category": "Pension",
+        "file_name": "Dual Family Pension.pdf"
+    },
+    {
+        "title": "ECHS reimbursement in view of Covid",
+        "category": "Pension",
+        "file_name": "ECHS reimursement in view of Covid.pdf"
+    },
+    {
+        "title": "Ex gratia lump sum compensation - Recommendations of the 7th CPC",
+        "category": "Pension",
+        "file_name": "Ex gratia lump sum compensation.pdf"
+    },
+    {
+        "title": "Liberaised family pension",
+        "category": "Pension",
+        "file_name": "Liberaised family pension.pdf"
+    },
+    {
+        "title": "Life Certificate for person abroad",
+        "category": "Pension",
+        "file_name": "Life Certificate for person abroad.pdf"
+    },
+    {
+        "title": "Family pension to the widows of State Force Pensioners",
+        "category": "Pension",
+        "file_name": "Other Family pension.pdf"
+    },
+    {
+        "title": "Revision of Pension of Pre-2016 Pensioners",
+        "category": "Pension",
+        "file_name": "Revision of Pension of Pre-2016 Pensioners.pdf"
+    },
+    {
+        "title": "Service family pension",
+        "category": "Pension",
+        "file_name": "Service family pension.pdf"
+    },
+    {
+        "title": "Service Gratuity",
+        "category": "Pension",
+        "file_name": "Service Gratuity.pdf"
+    },
+    {
+        "title": "Service Pension : Regular Army/Air Force/Navy/DSC ",
+        "category": "Pension",
+        "file_name": "Service Pension.pdf"
+    },
+    {
+        "title": "Special Pension/ Gratuity",
+        "category": "Pension",
+        "file_name": "Special pension.pdf"
+    },
+    {
+        "title": "War Injury Pension",
+        "category": "Pension",
+        "file_name": "War injury.pdf"
     }
 ]
